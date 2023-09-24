@@ -90,13 +90,7 @@ If you would like to contribute to the project, please feel free to fork the rep
 
 ## License
 
-Add license information here.
-
----
-
-## Contact
-
-Add contact information here for other developers or users to get in touch with you.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
